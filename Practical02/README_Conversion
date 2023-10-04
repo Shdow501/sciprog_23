@@ -1,0 +1,1 @@
+This is part of the week 2 practicals. We can compile the source code using the command "gcc Conversion.c -o conversion -lm". Here lm is used for the math library. Once the code is compiled, we can run the executable code using the command "./ conversion".
