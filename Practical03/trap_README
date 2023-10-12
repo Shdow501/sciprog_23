@@ -1,0 +1,1 @@
+This is the submission for practical 3 of Scientific Programming. We can compile this code using the command "gcc trap.c -o trap" which will create a executable file trap which can then be executed using the command "./trap".
