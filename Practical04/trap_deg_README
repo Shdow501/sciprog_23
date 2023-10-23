@@ -1,0 +1,1 @@
+This is the submission for practical 4 of Scientific Programming. This is similar to the code for practical 4 but we have used functions to make it cleaner and easier to understand. We can compile this code using the command "gcc trap_deg.c -o trap" which will create a executable file trap which can then be executed using the command "./trap_deg".
