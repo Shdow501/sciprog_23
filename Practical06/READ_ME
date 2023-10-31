@@ -1,0 +1,1 @@
+In this practical we use c to do matrix multiplication. We are multipying a 4x3 and a 3x4 matrix and the output is a 4x4 matrix. We are using static 2D arrays and nested for loops to achieve this.
