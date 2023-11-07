@@ -1,0 +1,3 @@
+In this practical we use multiple functions to allocate memory to an array dynamically whose size is inputed by the user. Once the memory has been allocated, we fill the array with 1 in every memory and print it out. Once done, we free the space and make the pointer which was pointing to the array, now point too NULL.
+
+We can compile the c code using the command gcc dynamicallocation.c -o dynamicallocation and once the executable has been created, we can run the executable using the command ./dynamicallocation
