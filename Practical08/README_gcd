@@ -1,0 +1,1 @@
+In this practical we calculate the greatest common divisor (gcd) of two numbers using an iterative function and also a recursive function. Currently the code is hardcoded to compute the gcd of the numbers 5 and 25. We can compile the code using the command "gcc gcd.c -o gcd" and once the executable has been created we can run the executable using the command "./gcd".
