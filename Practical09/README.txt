@@ -1,0 +1,2 @@
+In this week's practical we take input from a separate file and also learn the use of header files. We take input of a matrix and find if it is a magic square or not. We just need to compile the main code as the calculation code is connected to it.
+We can compile the code using the command "gcc main.c" and once the output file has been created we can use the command "./a.out" to run the executable. While executing, the file will ask for the input file containing the matrix and we can provide either the magic_square.txt or the not_magic_square.txt file.
